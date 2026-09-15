@@ -12,6 +12,7 @@
     "format:fix": "oxfmt"
   },
   "dependencies": {
+    "@ai-sdk/google": "^4.0.71",
     "@ai-sdk/openai": "^4.0.60",
     "@assistant-ui/ai-sdk": "latest",
     "@assistant-ui/react": "latest",
